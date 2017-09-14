@@ -1,0 +1,16 @@
+{
+    "name": "tmp",
+    "preferGlobal": true,
+    "version": "0.0.1",
+    "author": "Cody Bonney <me@codybonney.com>",
+    "description": "a simple web server that lints json strings",
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.10"
+    },
+    "scripts": {
+        "start": "node ./app.js"
+    },
+    "dependencies": {
+    }
+}
